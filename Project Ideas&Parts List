@@ -1,6 +1,20 @@
-Portable WiFi cracker
+Portable WiFi cracker (potentially useful link: http://www.linux.com/community/blogs/133-general-linux/748871-building-a-compute-cluster-with-the-beaglebone-black)
 
 Quantum simulation
 
 Wearable? I.E. Raspberry Pi Google Glass.
 
+...
+
+Parts List:
+3x BBB Rev C w/ 4GB SD Cards [https://www.adafruit.com/products/1876]
+3x 5V 2A "PSU"s [https://www.adafruit.com/products/276] *may be unnecessary if cell phone chargers match specs and can be substituted*
+3x BBB Case [https://www.adafruit.com/products/1555]
+
+
+Already Owned:
+1x Raspberry Pi Model B w/ Case
+1x 16GB SD Card
+1x Edimax USB 2.0 WiFi adapter
+1x 7-Port Powered USB Hub
+1x "PSU" (Cell Phone Charger)
