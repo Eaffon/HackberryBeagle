@@ -1,0 +1,6 @@
+Hacking tools--aircrack-ng, Reaver, wireshark, John the Ripper, Ettercap?
+Distro: Kali Linux? Comes preinstalled with tools, has special BBB image [http://www.offensive-security.com/kali-linux-vmware-arm-image-download/]
+
+MPI implementation for hacking tools
+
+NFS or other way for all BBBs to access dict. file.
