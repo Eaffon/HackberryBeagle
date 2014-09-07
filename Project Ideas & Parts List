@@ -7,10 +7,10 @@ Wearable? I.E. Raspberry Pi Google Glass.
 ...
 
 Parts List:
-3x BBB Rev C w/ 4GB SD Cards [https://www.adafruit.com/products/1876]
+3x BBB Rev C w/ 4GB SD Cards [https://www.adafruit.com/products/1876] (bigger cards may be necessary if install w/ dictionary files is too big)
 3x 5V 2A "PSU"s [https://www.adafruit.com/products/276] *may be unnecessary if cell phone chargers match specs and can be substituted*
 3x BBB Case [https://www.adafruit.com/products/1555]
-1x USB Drive for storing dictionary files (any cheap, high capacity drive from Amazon/Newegg)
+1x Ethernet Switch (to connect the BBBs to each other)
 
 
 Already Owned:
@@ -19,3 +19,4 @@ Already Owned:
 1x Edimax USB 2.0 WiFi adapter
 1x 7-Port Powered USB Hub
 1x "PSU" (Cell Phone Charger)
+1x Ethernet Cable
