@@ -1,15 +1,13 @@
-Portable WiFi cracker
+Portable WiFi Cracker
 
-Quantum simulation
-
-Wearable? I.E. Raspberry Pi Google Glass.
+Bitcoin Mining Cluster
 
 ...
 
 Parts List:
-3x BBB Rev C w/ 4GB SD Cards [https://www.adafruit.com/products/1876] (bigger cards may be necessary if install w/ dictionary files is too big)
-3x 5V 2A "PSU"s [https://www.adafruit.com/products/276] *may be unnecessary if cell phone chargers match specs and can be substituted*
-3x BBB Case [https://www.adafruit.com/products/1555]
+4x BBB Rev C w/ 4GB SD Cards [https://www.adafruit.com/products/1876] (bigger cards may be necessary if install w/ dictionary files is too big)
+4x 5V 2A "PSU"s [https://www.adafruit.com/products/276] *normal cell phone chargers probably won't match specs for required amperage*
+4x BBB Case [https://www.adafruit.com/products/1555]
 1x Ethernet Switch (to connect the BBBs to each other)
 
 
